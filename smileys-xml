@@ -1,0 +1,29 @@
+#!/bin/sh -e
+
+main() {
+    cat << EOF
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<smileys version='1.0'>
+	<profile name='Default'>
+		<smiley_set>
+EOF
+
+    while read code file; do
+        ext=$(echo "$file" | sed 's/.*\.//')
+        sum=$(sha1sum "$file" | awk '{print $1}')
+        mv "$file" "$sum.$ext"
+
+        cat << EOF
+			<smiley shortcut='$code' checksum='$sum' filename='$sum.$ext'/>
+EOF
+    done
+
+    cat << EOF
+		</smiley_set>
+	</profile>
+</smileys>
+EOF
+}
+
+main "$@"

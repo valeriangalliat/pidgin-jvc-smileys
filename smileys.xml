@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<smileys version='1.0'>
+	<profile name='Default'>
+		<smiley_set>
+			<smiley shortcut=':)' checksum='007a8e2d811a48394c4baa974da150c81bd37c01' filename='007a8e2d811a48394c4baa974da150c81bd37c01.gif'/>
+			<smiley shortcut=':snif:' checksum='1d960f5181cbf3d995bee163d48d75669cadc0c9' filename='1d960f5181cbf3d995bee163d48d75669cadc0c9.gif'/>
+			<smiley shortcut=':gba:' checksum='39ce5af61621fb4473a3b1142e0075dc6b0ab9f7' filename='39ce5af61621fb4473a3b1142e0075dc6b0ab9f7.gif'/>
+			<smiley shortcut=':g)' checksum='35e5994b4f07b5f8877b0c2e683b2176bd2afc85' filename='35e5994b4f07b5f8877b0c2e683b2176bd2afc85.gif'/>
+			<smiley shortcut=':-)' checksum='290201b9c7642335c9accbf352f7700b817b50da' filename='290201b9c7642335c9accbf352f7700b817b50da.gif'/>
+			<smiley shortcut=':snif2:' checksum='a9594efe1a1e88d0e037fa731f5863ebb0f38f18' filename='a9594efe1a1e88d0e037fa731f5863ebb0f38f18.gif'/>
+			<smiley shortcut=':bravo:' checksum='07203987c4f6663f39ae2626e826b32fbb5735db' filename='07203987c4f6663f39ae2626e826b32fbb5735db.gif'/>
+			<smiley shortcut=':d)' checksum='b22956071ca90d35d9e582ea4199e633a8626bbe' filename='b22956071ca90d35d9e582ea4199e633a8626bbe.gif'/>
+			<smiley shortcut=':hap:' checksum='f1f68e44d77c7260e408ee0c63397242f4b18f6f' filename='f1f68e44d77c7260e408ee0c63397242f4b18f6f.gif'/>
+			<smiley shortcut=':ouch:' checksum='cd821cc01d8719d65e70d48820f7b5a538389861' filename='cd821cc01d8719d65e70d48820f7b5a538389861.gif'/>
+			<smiley shortcut=':pacg:' checksum='204be16296b1424bf7f9a723c4ca0ba9efc5d140' filename='204be16296b1424bf7f9a723c4ca0ba9efc5d140.gif'/>
+			<smiley shortcut=':cd:' checksum='7404be502e73cea9e826235eb726acfd425ee0ed' filename='7404be502e73cea9e826235eb726acfd425ee0ed.gif'/>
+			<smiley shortcut=':-)))' checksum='47eee5f0ada640ec9a7c7858b80c2f573fada8a1' filename='47eee5f0ada640ec9a7c7858b80c2f573fada8a1.gif'/>
+			<smiley shortcut=':ouch2:' checksum='b015c54ba153a7ffbd5dc694636e4992ffdff29d' filename='b015c54ba153a7ffbd5dc694636e4992ffdff29d.gif'/>
+			<smiley shortcut=':pacd:' checksum='4ee70690478833e80583ac30175eb96ebeedd9ff' filename='4ee70690478833e80583ac30175eb96ebeedd9ff.gif'/>
+			<smiley shortcut=':cute:' checksum='adf7ec81d0d89f619fff7c072bd0d35071c9e760' filename='adf7ec81d0d89f619fff7c072bd0d35071c9e760.gif'/>
+			<smiley shortcut=':content:' checksum='f3322c20524f09c28d83a713a84136f181ad7aca' filename='f3322c20524f09c28d83a713a84136f181ad7aca.gif'/>
+			<smiley shortcut=':p)' checksum='94589d9cf6fbeeb3e6e9addc21446ee1cb324a7c' filename='94589d9cf6fbeeb3e6e9addc21446ee1cb324a7c.gif'/>
+			<smiley shortcut=':-p' checksum='45a0571d180094276f68baa9eee952c9935fb415' filename='45a0571d180094276f68baa9eee952c9935fb415.gif'/>
+			<smiley shortcut=':noel:' checksum='a3051a88c01b9fab8689b23d76ffe23a41f0ffbb' filename='a3051a88c01b9fab8689b23d76ffe23a41f0ffbb.gif'/>
+			<smiley shortcut=':oui:' checksum='1fc8aa30b24c795e6e05c23a8f2a61e0b40c3c3f' filename='1fc8aa30b24c795e6e05c23a8f2a61e0b40c3c3f.gif'/>
+			<smiley shortcut=':(' checksum='0bd9631744af4db95e71882081e1e18c36e5126d' filename='0bd9631744af4db95e71882081e1e18c36e5126d.gif'/>
+			<smiley shortcut=':peur:' checksum='bdfdecb77d4d87d55456b6660f00948ced397b6a' filename='bdfdecb77d4d87d55456b6660f00948ced397b6a.gif'/>
+			<smiley shortcut=':question:' checksum='750dda5c314ce8022fed15504ace560f19ee0793' filename='750dda5c314ce8022fed15504ace560f19ee0793.gif'/>
+			<smiley shortcut=':cool:' checksum='3939384fb7d363ad248e37317712c3361b80ff22' filename='3939384fb7d363ad248e37317712c3361b80ff22.gif'/>
+			<smiley shortcut=':-(' checksum='258ea645e9496a9b1d1ce31a74b20d6553cea83d' filename='258ea645e9496a9b1d1ce31a74b20d6553cea83d.gif'/>
+			<smiley shortcut=':coeur:' checksum='08a9766dafcce7397ae505fb3317db6bc48ca334' filename='08a9766dafcce7397ae505fb3317db6bc48ca334.gif'/>
+			<smiley shortcut=':mort:' checksum='83b0806c58b515dd3a4276a6d3b98cd71cc5c5b5' filename='83b0806c58b515dd3a4276a6d3b98cd71cc5c5b5.gif'/>
+			<smiley shortcut=':rire:' checksum='0fd300eb64f4fe9f1bce4c1c5bfd418e5f77a697' filename='0fd300eb64f4fe9f1bce4c1c5bfd418e5f77a697.gif'/>
+			<smiley shortcut=':-((' checksum='1a8abd3bae312c0db75efbca5c9f6e9d59d69257' filename='1a8abd3bae312c0db75efbca5c9f6e9d59d69257.gif'/>
+			<smiley shortcut=':fou:' checksum='27866f9239b15707370aec93b0f8c057f5440ade' filename='27866f9239b15707370aec93b0f8c057f5440ade.gif'/>
+			<smiley shortcut=':sleep:' checksum='c806c94955f750e021dba45f7ac3eacff5a11a5e' filename='c806c94955f750e021dba45f7ac3eacff5a11a5e.gif'/>
+			<smiley shortcut=':-D' checksum='455b1b39d509c62c9f83b1b56d193039a84244da' filename='455b1b39d509c62c9f83b1b56d193039a84244da.gif'/>
+			<smiley shortcut=':nonnon:' checksum='0f88c2de940e1c441f666e215b3298cb80d6c174' filename='0f88c2de940e1c441f666e215b3298cb80d6c174.gif'/>
+			<smiley shortcut=':fier:' checksum='8f62d42c4ec5ad1d2ff8549b632964301870c52b' filename='8f62d42c4ec5ad1d2ff8549b632964301870c52b.gif'/>
+			<smiley shortcut=':honte:' checksum='ecf1448b0ed42763d6a928109ef7459ca6f4728e' filename='ecf1448b0ed42763d6a928109ef7459ca6f4728e.gif'/>
+			<smiley shortcut=':rire2:' checksum='fc006c3d430c8d9fd5659cfc304d102e456233ad' filename='fc006c3d430c8d9fd5659cfc304d102e456233ad.gif'/>
+			<smiley shortcut=':non2:' checksum='5a7ea8ef7a333e8bddfda5e75b5b94cc3b5cea3b' filename='5a7ea8ef7a333e8bddfda5e75b5b94cc3b5cea3b.gif'/>
+			<smiley shortcut=':sarcastic:' checksum='e1d297d81f5156b17ed12af3b5d55ef2017289aa' filename='e1d297d81f5156b17ed12af3b5d55ef2017289aa.gif'/>
+			<smiley shortcut=':monoeil:' checksum='2ef7841f2df254042bf74a9f0062c6d8309cae18' filename='2ef7841f2df254042bf74a9f0062c6d8309cae18.gif'/>
+			<smiley shortcut=':o))' checksum='bf1d665ee7c02ed76911da37a8dc858adf23807e' filename='bf1d665ee7c02ed76911da37a8dc858adf23807e.gif'/>
+			<smiley shortcut=':nah:' checksum='5b609a3fd96d989d5fbc8be81112c107acc078e5' filename='5b609a3fd96d989d5fbc8be81112c107acc078e5.gif'/>
+			<smiley shortcut=':doute:' checksum='df11e931362e120c36db3c8401433316845e1a7e' filename='df11e931362e120c36db3c8401433316845e1a7e.gif'/>
+			<smiley shortcut=':rouge:' checksum='3388b2119d538a387ed559aa0fbbffafb1568d87' filename='3388b2119d538a387ed559aa0fbbffafb1568d87.gif'/>
+			<smiley shortcut=':ok:' checksum='2b95419e001b825bc067244f6eabed9d0011c6f7' filename='2b95419e001b825bc067244f6eabed9d0011c6f7.gif'/>
+			<smiley shortcut=':non:' checksum='7bf751da518ab4a45035f6a73d81a87399cf5bd8' filename='7bf751da518ab4a45035f6a73d81a87399cf5bd8.gif'/>
+			<smiley shortcut=':malade:' checksum='03538cb7785055714e7c2b3e2b374025009dee0b' filename='03538cb7785055714e7c2b3e2b374025009dee0b.gif'/>
+			<smiley shortcut=':fete:' checksum='940dde486b7839be2adc64ea58b23c0babbceeab' filename='940dde486b7839be2adc64ea58b23c0babbceeab.gif'/>
+			<smiley shortcut=':sournois:' checksum='644366345ebe0de654cfad5c09f6625818a727e1' filename='644366345ebe0de654cfad5c09f6625818a727e1.gif'/>
+			<smiley shortcut=':hum:' checksum='e740f33aaaa41cd876c1199d800c6560a5ee6615' filename='e740f33aaaa41cd876c1199d800c6560a5ee6615.gif'/>
+			<smiley shortcut=':ange:' checksum='354ff81f2ad02204c0606f3d5cb1a752bcd4a2bf' filename='354ff81f2ad02204c0606f3d5cb1a752bcd4a2bf.gif'/>
+			<smiley shortcut=':diable:' checksum='a4ca19efef55bc6d38ccf4b6e78f6b295e5797d2' filename='a4ca19efef55bc6d38ccf4b6e78f6b295e5797d2.gif'/>
+			<smiley shortcut=':gni:' checksum='9f7a5761af6724c332e2de7dcea7611501f511fe' filename='9f7a5761af6724c332e2de7dcea7611501f511fe.gif'/>
+			<smiley shortcut=':play:' checksum='40ac44ae94bada9eb47110b35e9bf6c5e243a9a2' filename='40ac44ae94bada9eb47110b35e9bf6c5e243a9a2.gif'/>
+			<smiley shortcut=':desole:' checksum='704472acb93adcb9e2fc0030b42d1efddc71f9ac' filename='704472acb93adcb9e2fc0030b42d1efddc71f9ac.gif'/>
+			<smiley shortcut=':spoiler:' checksum='6fb0666f72fb638a3fdde3d56e128fc9e804793b' filename='6fb0666f72fb638a3fdde3d56e128fc9e804793b.gif'/>
+			<smiley shortcut=':merci:' checksum='ddba39d08cd054ad4bea417b54bdafcb213d3000' filename='ddba39d08cd054ad4bea417b54bdafcb213d3000.gif'/>
+			<smiley shortcut=':svp:' checksum='defaed0eb3c2f1852561d3b843dcf3637272e616' filename='defaed0eb3c2f1852561d3b843dcf3637272e616.gif'/>
+			<smiley shortcut=':sors:' checksum='a496a2e4a14411ecda2f2f4967d83470fd0ce720' filename='a496a2e4a14411ecda2f2f4967d83470fd0ce720.gif'/>
+			<smiley shortcut=':salut:' checksum='0ac223f00c334172d2ed9da4fa9ad1d851d9836c' filename='0ac223f00c334172d2ed9da4fa9ad1d851d9836c.gif'/>
+			<smiley shortcut=':rechercher:' checksum='7fd351335e62bd53fad4e8d5ead7440d96c64b0c' filename='7fd351335e62bd53fad4e8d5ead7440d96c64b0c.gif'/>
+			<smiley shortcut=':hello:' checksum='8c4427a99835b6a8e840dc93d16d5eac9d9d8273' filename='8c4427a99835b6a8e840dc93d16d5eac9d9d8273.gif'/>
+			<smiley shortcut=':up:' checksum='9107e5e9e82b94219f4a6db99c4f575b93fe43dc' filename='9107e5e9e82b94219f4a6db99c4f575b93fe43dc.gif'/>
+			<smiley shortcut=':bye:' checksum='e2bd590a8a20bb8aac34901a8323d5ff006a2121' filename='e2bd590a8a20bb8aac34901a8323d5ff006a2121.gif'/>
+			<smiley shortcut=':gne:' checksum='84c448d9fc0510c9470883289ab79b921893ec9f' filename='84c448d9fc0510c9470883289ab79b921893ec9f.gif'/>
+			<smiley shortcut=':lol:' checksum='1ef9fd1629790452190ec7812421eb91ef7d7b01' filename='1ef9fd1629790452190ec7812421eb91ef7d7b01.gif'/>
+			<smiley shortcut=':dpdr:' checksum='abd13de1d470e341134811107ba1d15a18caca0a' filename='abd13de1d470e341134811107ba1d15a18caca0a.gif'/>
+			<smiley shortcut=':dehors:' checksum='7250015fca242e08cf5bbed5bf1d48b7ba60beb4' filename='7250015fca242e08cf5bbed5bf1d48b7ba60beb4.gif'/>
+			<smiley shortcut=':hs:' checksum='0ea12da78f50be9e193cb8d3f44cb25ec5912a65' filename='0ea12da78f50be9e193cb8d3f44cb25ec5912a65.gif'/>
+			<smiley shortcut=':banzai:' checksum='5bf34169d101ac1daded4731e59faa3d462f5dad' filename='5bf34169d101ac1daded4731e59faa3d462f5dad.gif'/>
+			<smiley shortcut=':bave:' checksum='f491631ae876d8d3d0ea5ccd9b9acd27d9af3a30' filename='f491631ae876d8d3d0ea5ccd9b9acd27d9af3a30.gif'/>
+			<smiley shortcut=':pf:' checksum='f40190b3d86d8cb9b561385fc033baaaf3f8c52d' filename='f40190b3d86d8cb9b561385fc033baaaf3f8c52d.gif'/>
+			<smiley shortcut=':fish:' checksum='4488975e7c9a53921ccb07d48ce2f26865faa16a' filename='4488975e7c9a53921ccb07d48ce2f26865faa16a.png'/>
+			<smiley shortcut=':mac:' checksum='26208c4c123e37edef47778ba8db6c0d2ee6d86c' filename='26208c4c123e37edef47778ba8db6c0d2ee6d86c.gif'/>
+			<smiley shortcut=':globe:' checksum='2ff3d3121873d8e9472abbacb42edc3a6c9455f7' filename='2ff3d3121873d8e9472abbacb42edc3a6c9455f7.gif'/>
+			<smiley shortcut=':loveyou:' checksum='8e615bb563225c2479661ed226a76c9167f65e16' filename='8e615bb563225c2479661ed226a76c9167f65e16.gif'/>
+			<smiley shortcut=':hapoelparty:' checksum='471fa6b15ab8905f51be9f31b804a4006400adcc' filename='471fa6b15ab8905f51be9f31b804a4006400adcc.gif'/>
+		</smiley_set>
+	</profile>
+</smileys>
