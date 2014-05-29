@@ -12,8 +12,8 @@ Description
 -----------
 
 This repo contains the custom smileys directory and XML file to provide
-the JeuxVideo.com smileys to Pidgin, to be merged in `~/.purple` directory,
-together with the script that generated the XML file (see `make` script).
+the JeuxVideo.com smileys to Pidgin, together with the script that generated
+the smiley files and the XML file (see `smileys-xml` script).
 
 The script expects a list of smileys (code and file) in standard input,
 and will dump the XML on standard output, while renaming smiley files
