@@ -30,7 +30,7 @@ Examples
 
 Using [JeuxVideo.com Tools](https://github.com/valeriangalliat/jvc-tools) to
 retrieve the smileys list, this is how I generated the static files and XML
-in this repo (see the makefile):
+in this repo:
 
 ```sh
 mkdir custom_smiley
