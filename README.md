@@ -1,18 +1,18 @@
-Pidgin JeuxVideo.com Smileys
+Pidgin jeuxvideo.com Smileys
 ============================
 
-[JeuxVideo.com](http://www.jeuxvideo.com/) smileys for Pidgin.
+[jeuxvideo.com](http://www.jeuxvideo.com/) smileys for Pidgin.
 
 Overview
 --------
 
-![Pidgin JeuxVideo.com Smileys](smileys.png)
+![Pidgin jeuxvideo.com Smileys](smileys.png)
 
 Description
 -----------
 
 This repo contains the custom smileys directory and XML file to provide
-the JeuxVideo.com smileys to Pidgin, together with the script that generated
+the jeuxvideo.com smileys to Pidgin, together with the script that generated
 the smiley files and the XML file (see `smileys-xml` script).
 
 The script expects a list of smileys (code and file) in standard input,
@@ -28,7 +28,7 @@ Copy `custom_smiley` and `smileys.xml` in `~/.purple`.
 Examples
 --------
 
-Using [JeuxVideo.com Tools](https://github.com/valeriangalliat/jvc-tools) to
+Using [jeuxvideo.com Tools](https://github.com/valeriangalliat/jvc-tools) to
 retrieve the smileys list, this is how I generated the static files and XML
 in this repo:
 
