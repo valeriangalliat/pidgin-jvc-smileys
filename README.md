@@ -1,4 +1,4 @@
-Pidgin jeuxvideo.com Smileys
+Pidgin jeuxvideo.com smileys
 ============================
 
 [jeuxvideo.com](http://www.jeuxvideo.com/) smileys for Pidgin.
@@ -28,7 +28,7 @@ Copy `custom_smiley` and `smileys.xml` in `~/.purple`.
 Examples
 --------
 
-Using [jeuxvideo.com Tools](https://github.com/valeriangalliat/jvc-tools) to
+Using [jeuxvideo.com tools](https://github.com/valeriangalliat/jvc-tools) to
 retrieve the smileys list, this is how I generated the static files and XML
 in this repo:
 
