@@ -1,7 +1,7 @@
 Pidgin jeuxvideo.com smileys
 ============================
 
-[jeuxvideo.com](http://www.jeuxvideo.com/) smileys for Pidgin.
+> [jeuxvideo.com](http://www.jeuxvideo.com/) smileys for Pidgin.
 
 Overview
 --------
